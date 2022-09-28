@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Athulsanthoshen
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Btech
+- 🌱 I’m currently pursing Btech electronics 
 - 💞️ I’m looking to collaborate on ShareInfo
 - 📫 How to reach me INDIA
 

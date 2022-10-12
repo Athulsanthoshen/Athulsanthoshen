@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Athulsanthoshen
 - 👀 I’m interested in coding
 - 🌱 I’m currently pursing Btech electronics 
-- 💞️ I’m looking to collaborate on ShareInfo
+- 💞️ I’m working at ShareInfo as operational lead
 - 📫 How to reach me INDIA
 
 <!---

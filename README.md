@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Athulsanthoshen
 - 👀 I’m interested in coding
-- 🌱 I’m currently pursuing Btech electronics & communication 
-- 💞️ I’m working at ShareInfo as operational lead
+- 🌱 I’m currently pursuing B.tech Electronics & Communication 
+- 💞️ I’m working at Imiot Technolabs as Socail Media Manager
+-      and also working in Shareinfo community as operational lead
 - 📫 How to reach me INDIA
 
 <!---

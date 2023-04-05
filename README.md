@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Athulsanthoshen
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently pursuing B.tech Electronics & Communication 
-- 💞️ I’m working at Imiot Technolabs as Socail Media Manager
+- 💞️ I’m working at Imiot Technolabs as Social Media Manager
 -      and also working in Shareinfo community as operational lead
 - 📫 How to reach me INDIA
 Thank You

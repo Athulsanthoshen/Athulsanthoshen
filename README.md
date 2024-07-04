@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arjunathul" target="blank"><img src="https://img.shields.io/twitter/follow/arjunathul?logo=twitter&style=for-the-badge" alt="arjunathul" /></a> </p>
 
-- 🌱 I’m currently learning **AI, IoT**
+- 🌱 I’m currently learning **DSA, ERP Application, AI, IoT**
 
 - 👨‍💻 All of my projects are available at [https://athulsanthoshen.github.io/Portfolio/](https://athulsanthoshen.github.io/Portfolio/)
 
